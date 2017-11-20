@@ -4,7 +4,7 @@ import MySQLdb
 hostname = 'localhost'
 database = 'app_db'
 username='root'
-password='6931126790ezln'
+password=''
 
 def connectToSQLDatabase():
        #print 'Using MySQL - library'
